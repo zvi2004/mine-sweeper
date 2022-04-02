@@ -1,0 +1,14 @@
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.exe
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.deps.json
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.runtimeconfig.json
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.runtimeconfig.dev.json
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.dll
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\bin\Debug\netcoreapp3.1\mineSweeper.pdb
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.csproj.AssemblyReference.cache
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.AssemblyInfoInputs.cache
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.AssemblyInfo.cs
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.dll
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.pdb
+C:\Users\ZVI\Desktop\mine-sweeper\mineSweeper\mineSweeper\obj\Debug\netcoreapp3.1\mineSweeper.genruntimeconfig.cache
